@@ -1,3 +1,9 @@
+/*Alexandra GANEA
+ * CSE360 Assign2
+ * https://github.com/AlexGanea/cse360assign2
+ */
+
+
 package cse360assign2;
 
 public class AddingMachine {
